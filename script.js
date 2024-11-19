@@ -1,4 +1,4 @@
-const API_KEY = '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'; // Your OpenWeatherMap API key
+const API_KEY = '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'; // Your OpenWeatherMap API key
 
 // Function to fetch weather by city name
 async function fetchWeatherByCity(city) {
